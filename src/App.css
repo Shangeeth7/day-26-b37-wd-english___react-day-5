@@ -1,0 +1,9 @@
+.input-error {
+  border: 1px solid red;
+}
+
+.userView {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}
